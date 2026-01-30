@@ -1,2 +1,2 @@
-# HTML-CSS-JavaScript-projects-for-beginners
+tip-calculator
 projects
